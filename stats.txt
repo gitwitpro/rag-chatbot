@@ -1,0 +1,3 @@
+K-means clustering is an unsupervised learning algorithm.
+
+Bias and variance are important concepts in model performance.

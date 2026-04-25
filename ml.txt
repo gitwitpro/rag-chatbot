@@ -1,0 +1,5 @@
+Machine learning is a field of artificial intelligence that focuses on learning from data.
+
+Overfitting occurs when a model learns noise in training data and performs poorly on new data.
+
+Random forest is an ensemble learning method.
